@@ -21,5 +21,6 @@ Fiquei anos longe do bee, e vou tentar de novo. Meus atuais status (28/05/2024):
 - [3038](https://judge.beecrowd.com/pt/problems/view/3038)
   - Solução: python, fácil
 - [3088](https://judge.beecrowd.com/pt/problems/view/3088)
+  - Solução: python, fácil
 
 3. 
